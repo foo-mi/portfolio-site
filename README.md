@@ -7,7 +7,9 @@ Built with React, TypeScript, and Vite.
 - **Gundam Aesthetic**: Plum and Light Green falling gundam vocab 
 - **Component-Based Architecture**: Modular React components
 - **TypeScript**: Type-safe code
-- **Template Data**: Portfolio and Updates sections
+
+## Coming Soon
+- **Template Data**: To Misc and Updates sections
 
 
 
